@@ -1,0 +1,12 @@
+{
+	"name": "ds_Staging",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabaseJMWS",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
