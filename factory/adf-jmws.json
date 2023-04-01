@@ -1,0 +1,9 @@
+{
+	"name": "adf-jmws",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3823e628-dfce-4554-afd7-579fe26517c6",
+		"tenantId": "e95ed918-2bb1-4e4c-96b2-04f8d7649fec"
+	}
+}
