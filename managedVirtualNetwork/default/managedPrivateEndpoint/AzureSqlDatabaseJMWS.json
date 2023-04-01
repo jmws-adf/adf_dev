@@ -1,7 +1,0 @@
-{
-	"name": "AzureSqlDatabaseJMWS",
-	"properties": {
-		"privateLinkResourceId": "/subscriptions/6f861172-ae0d-4155-8b90-3e57ae8f279c/resourceGroups/rg-jmws/providers/Microsoft.Sql/servers/jmws",
-		"groupId": "sqlServer"
-	}
-}
